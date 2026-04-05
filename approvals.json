@@ -1,12 +1,14 @@
 {
-  "version": 2,
-  "updatedAt": "2026-04-05T17:45:01+09:00",
+  "version": 3,
+  "updatedAt": "2026-04-05T21:13:29+09:00",
   "entries": [
     {
       "playerName": "monocrafty",
       "executedAt": "2026-04-05T16:36:43+09:00",
       "executorDiscordId": "205331311756312586",
-      "executorDisplayName": "んじじ"
+      "executorDisplayName": "んじじ",
+      "status": "inactive",
+      "serverSyncAt": ""
     },
     {
       "playerName": "njj12",
@@ -16,7 +18,9 @@
       "executedAt": "2026-04-05T17:12:41+09:00",
       "executorDiscordId": "205331311756312586",
       "executorDisplayName": "んじじ",
-      "executorMention": "<@205331311756312586>"
+      "executorMention": "<@205331311756312586>",
+      "status": "active",
+      "serverSyncAt": ""
     },
     {
       "playerName": "teset",
@@ -26,7 +30,9 @@
       "executedAt": "2026-04-05T17:45:01+09:00",
       "executorDiscordId": "205331311756312586",
       "executorDisplayName": "んじじ",
-      "executorMention": "<@205331311756312586>"
+      "executorMention": "<@205331311756312586>",
+      "status": "active",
+      "serverSyncAt": ""
     }
   ]
 }
