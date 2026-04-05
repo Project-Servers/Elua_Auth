@@ -1,5 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-05T16:22:35+09:00",
-  "entries": []
+  "updatedAt": "2026-04-05T16:36:25+09:00",
+  "entries": [
+    {
+      "playerName": "njj12",
+      "executedAt": "2026-04-05T16:36:25+09:00",
+      "executorDiscordId": "205331311756312586",
+      "executorDisplayName": "んじじ"
+    }
+  ]
 }
