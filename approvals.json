@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-04-05T21:44:01.7699983+09:00",
+  "updatedAt": "2026-04-05T21:44:17+09:00",
   "entries": [
     {
       "playerName": "monocrafty",
@@ -57,6 +57,18 @@
       "executorMention": "<@205331311756312586>",
       "status": "active",
       "serverSyncAt": "2026-04-05T21:44:01.7699983+09:00"
+    },
+    {
+      "playerName": "Twitter",
+      "playerUUID": "6f31c9ca-9687-4c03-a0b6-5066d6dc3457",
+      "playerDiscordName": "aogami1085_JP",
+      "playerDiscordID": "582440263151255571",
+      "executedAt": "2026-04-05T21:44:17+09:00",
+      "executorDiscordId": "205331311756312586",
+      "executorDisplayName": "んじじ",
+      "executorMention": "<@205331311756312586>",
+      "status": "active",
+      "serverSyncAt": ""
     }
   ]
 }
