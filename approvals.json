@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-05T17:40:13+09:00",
+  "updatedAt": "2026-04-05T17:40:29+09:00",
   "entries": [
     {
       "playerName": "monocrafty",
@@ -14,6 +14,16 @@
       "playerDiscordName": "njj12",
       "playerDiscordID": "205331311756312586",
       "executedAt": "2026-04-05T17:12:41+09:00",
+      "executorDiscordId": "205331311756312586",
+      "executorDisplayName": "んじじ",
+      "executorMention": "<@205331311756312586>"
+    },
+    {
+      "playerName": "Test",
+      "playerUUID": "d8d5a923-7b20-43d8-883b-1150148d6955",
+      "playerDiscordName": "aogami1085_JP",
+      "playerDiscordID": "582440263151255571",
+      "executedAt": "2026-04-05T17:40:29+09:00",
       "executorDiscordId": "205331311756312586",
       "executorDisplayName": "んじじ",
       "executorMention": "<@205331311756312586>"
