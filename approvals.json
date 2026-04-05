@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-04-05T21:34:13.4734542+09:00",
+  "updatedAt": "2026-04-05T21:43:14+09:00",
   "entries": [
     {
       "playerName": "monocrafty",
@@ -45,6 +45,18 @@
       "executorMention": "<@205331311756312586>",
       "status": "inactive",
       "serverSyncAt": "2026-04-05T21:33:32.2184211+09:00"
+    },
+    {
+      "playerName": "Zombie",
+      "playerUUID": "02b0e86d-c86a-4ae7-bc41-015d21f80c1c",
+      "playerDiscordName": "aogami1085_JP",
+      "playerDiscordID": "582440263151255571",
+      "executedAt": "2026-04-05T21:43:14+09:00",
+      "executorDiscordId": "205331311756312586",
+      "executorDisplayName": "んじじ",
+      "executorMention": "<@205331311756312586>",
+      "status": "active",
+      "serverSyncAt": ""
     }
   ]
 }
