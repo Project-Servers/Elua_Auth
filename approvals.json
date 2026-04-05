@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-04-05T21:13:29+09:00",
+  "updatedAt": "2026-04-05T21:25:41+09:00",
   "entries": [
     {
       "playerName": "monocrafty",
@@ -28,6 +28,18 @@
       "playerDiscordName": "aogami1085_JP",
       "playerDiscordID": "582440263151255571",
       "executedAt": "2026-04-05T17:45:01+09:00",
+      "executorDiscordId": "205331311756312586",
+      "executorDisplayName": "んじじ",
+      "executorMention": "<@205331311756312586>",
+      "status": "active",
+      "serverSyncAt": ""
+    },
+    {
+      "playerName": "Notch",
+      "playerUUID": "069a79f4-44e9-4726-a5be-fca90e38aaf5",
+      "playerDiscordName": "aogami1085_JP",
+      "playerDiscordID": "582440263151255571",
+      "executedAt": "2026-04-05T21:25:41+09:00",
       "executorDiscordId": "205331311756312586",
       "executorDisplayName": "んじじ",
       "executorMention": "<@205331311756312586>",
