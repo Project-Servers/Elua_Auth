@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-04-10T22:38:33.75928694+09:00",
+  "updatedAt": "2026-04-10T23:02:37.5309572+09:00",
   "entries": [
     {
       "playerName": "njj12",
@@ -18,11 +18,11 @@
       "playerUUID": "9480790d-adf8-4156-864c-2fa06e83d92d",
       "playerDiscordName": "njj_Debug",
       "playerDiscordID": "986961827479056464",
-      "executedAt": "2026-04-07T22:17:48+09:00",
+      "executedAt": "2026-04-10T23:02:37.5309572+09:00",
       "executorDiscordId": "205331311756312586",
       "executorDisplayName": "んじじ",
-      "status": "inactive",
-      "serverSyncAt": "2026-04-07T22:26:42.544687645+09:00"
+      "status": "active",
+      "serverSyncAt": ""
     }
   ]
 }
