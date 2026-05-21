@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-04-11T21:23:59.855650032+09:00",
+  "updatedAt": "2026-05-21T23:36:32+09:00",
   "entries": [
     {
       "playerName": "njj12",
@@ -23,6 +23,17 @@
       "executorDisplayName": "んじじ",
       "status": "active",
       "serverSyncAt": "2026-04-11T21:23:59.855650032+09:00"
+    },
+    {
+      "playerName": "yuutari5091",
+      "playerUUID": "d9809d5c-4b97-4cee-9dc4-36dc2990d4ba",
+      "playerDiscordName": "yuttari2024",
+      "playerDiscordID": "1273116015580155986",
+      "executedAt": "2026-05-21T23:36:32+09:00",
+      "executorDiscordId": "350891154075811840",
+      "executorDisplayName": "たかしんぐ",
+      "status": "active",
+      "serverSyncAt": ""
     }
   ]
 }
