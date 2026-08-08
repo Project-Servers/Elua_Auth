@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-05-23T22:03:38.147547675+09:00",
+  "updatedAt": "2026-08-09T00:20:41+09:00",
   "entries": [
     {
       "playerName": "njj12",
@@ -34,6 +34,17 @@
       "executorDisplayName": "たかしんぐ",
       "status": "active",
       "serverSyncAt": "2026-05-23T22:03:38.147547675+09:00"
+    },
+    {
+      "playerName": "YU_YU_0",
+      "playerUUID": "39742b14-63db-4246-a685-dc79b871248c",
+      "playerDiscordName": "𝕪𝕦𝕪𝕦",
+      "playerDiscordID": "964096048844906498",
+      "executedAt": "2026-08-09T00:20:41+09:00",
+      "executorDiscordId": "296512662852993025",
+      "executorDisplayName": "Yussan",
+      "status": "active",
+      "serverSyncAt": ""
     }
   ]
 }
