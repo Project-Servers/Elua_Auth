@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T22:20:54+09:00",
+  "updatedAt": "2026-11-03T19:02:23+09:00",
   "entries": [
     {
       "playerName": "njj12",
@@ -52,6 +52,17 @@
       "playerDiscordName": "aogami1085_JP",
       "playerDiscordID": "582440263151255571",
       "executedAt": "2026-10-03T22:20:54+09:00",
+      "executorDiscordId": "296512662852993025",
+      "executorDisplayName": "Yussan",
+      "status": "active",
+      "serverSyncAt": ""
+    },
+    {
+      "playerName": "gameyarasero",
+      "playerUUID": "145e34c3-5779-4acc-b1ae-9453de837880",
+      "playerDiscordName": "ゲーム大好き",
+      "playerDiscordID": "1247465728127275021",
+      "executedAt": "2026-11-03T19:02:23+09:00",
       "executorDiscordId": "296512662852993025",
       "executorDisplayName": "Yussan",
       "status": "active",
